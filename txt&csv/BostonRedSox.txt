@@ -1,0 +1,8 @@
+1912,New York Giants
+1915,Philadelphia Phillies
+1916,Brooklyn Robins
+1918,Chicago Cubs
+2004,St. Louis Cardinals
+2007,Colorado Rockies
+2013,St. Louis Cardinals
+2018,Los Angeles Dodgers
