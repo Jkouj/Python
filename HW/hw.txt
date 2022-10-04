@@ -1,0 +1,2 @@
+These are all my homeworks throughout the entire course.
+Some require input files located in txt&csv
