@@ -1,0 +1,6 @@
+random files I couldnt find a folder for:
+- dot plots
+- in class examples
+- simple calculations
+- string manipulation / search
+- reading/writing files (getSpeeds.py)
